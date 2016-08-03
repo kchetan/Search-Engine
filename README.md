@@ -16,17 +16,17 @@ fixes for the module are worth downloading.
 
 To install this module, run the following commands:
 
-	`perl Makefile.PL`
-	`make`
-	`make test`
-	`make install`
+`perl Makefile.PL`
+`make`
+`make test`
+`make install`
 
 ## SUPPORT AND DOCUMENTATION
 
 After installing, you can find documentation for this module with the
 perldoc command.
 
-    `perldoc Erviz`
+`perldoc Erviz`
 
 ### You can also look for information at:
 
@@ -69,5 +69,3 @@ See `http://dev.perl.org/licenses/` for more information.
 
 Run the run.sh file with an input path of the xml file and the index file path as command line arguments.
 nltk should be installed 
-
-`test`
