@@ -15,3 +15,4 @@
 Run the run.sh file with an input path of the xml file and the index file path as command line arguments.
 nltk should be installed 
 
+`test`
